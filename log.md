@@ -2,7 +2,7 @@
 
 ### Day 0 - May 22, 2020
 
-**GOALS**: I will be dual learning Kotlin and using Git/Github. Initially, I will spend 1 hour on each topic/day. When I feel comfortable with the what I am learning, then I will begin to build and use knowledge to create. 
+**GOALS**: I will be dual learning Kotlin and learning how to properly use Git/Github. Initially, I will spend 1 hour on each topic/day. When I feel comfortable with the what I am learning, then I will begin to build and use knowledge to create. 
 
 **Today's Progress**: 
 - 1400: I was able to set-up the initial forked repo, gathered materials, built and organized the project. 
