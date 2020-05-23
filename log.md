@@ -24,4 +24,14 @@ retention.
 
 ### Day 1: May 23, 2020
 
+**DAILY GOALS**: Finish the Git/GitHub course. Continue on learning Kotlin. Look into android development so I am able to apply the learnings and build applications.
 
+**Today's Progress**:
+- 2000 - Kids are finally asleep. Day 1 has begun. 
+
+
+**Thoughts**:
+
+
+
+**Link to work**: None.
