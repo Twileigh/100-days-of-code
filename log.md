@@ -6,10 +6,12 @@
 
 **Today's Progress**: 
 - 1400: I was able to set-up the initial forked repo, gathered materials, built and organized the project. 
--
+- 2230: Halfway through Git/Github course on learning.oreilly.com. Pretty pumped. Learned Basics of Kotlin up to functions and classes. Will continue with those tomorrow.
 
 **Thoughts**: 
 - 1400 - Super motivated. I need to pan for down days and ensure I stay focused. 
+- 2300 - I should schedule in review time slots each morning moving forward to ensure 
+retention.
 
 **Link to work**: None
 
