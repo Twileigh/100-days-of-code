@@ -2,7 +2,7 @@
 
 ### Day 0 - May 22, 2020
 
-I will be using this log file as more of a diary amd think log.
+I will be using this log file as more of a tracker/diary.
 
 **GOALS**: I will be dual learning Kotlin and learning how to properly use Git/Github. Initially, I will spend 1 hour on each topic/day. When I feel comfortable with the what I am learning, then I will begin to build and use knowledge to create. 
 
