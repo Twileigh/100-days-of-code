@@ -28,10 +28,31 @@ retention.
 
 **Today's Progress**:
 - 2000 - Kids are finally asleep. Day 1 has begun. 
+- 0000 - Finished Git/Github course. Feeling great! Solid understanding of Git now. I will continue to work with Git/GitHub for each project throughout #100daysofcode
 
-
-**Thoughts**:
+**Thoughts**: 
+- Why did it take me so long to learn Git?? I should have learned a DVCS when learning web dev.
+- Finding it a little difficult to find and stick to one learning material on Kotlin...I need to stop looking for material and create material!
 
 
 
 **Link to work**: None.
+
+## Day 2: May 25, 2020
+
+**DAILY GOALS**:  I will step back on Kotlin and continue learning the power of functions and classes. I will create multiple projects and create classes and functions and test my knowledge. 
+
+**Today's Progress**:
+- 2100 - Finally able to start learning. Kids are asleep and wife doesn't have any more adventures planned. 
+- 2300 - Had to look up more stuff on Functions and Classes for Kotlin 
+- 0000 - Moved on from functions and classes for the time being. Spending rest of night reviewing and writing small projects with material I know. 
+
+**Thoughts**:
+- I need to really focus on one resource for Kotlin and stop looking for more if I find myself in a rut, 
+
+
+**Link to work**: None. Plan on linking work by day 14. End of second week. 
+
+## Day 3: May 26, 2020
+
+
