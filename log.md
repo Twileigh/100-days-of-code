@@ -55,4 +55,12 @@ retention.
 
 ## Day 3: May 26, 2020
 
+**DAILY GOALS**: Review material throughout the day and apply material at night.
 
+**Today's Progress**: 
+- 2357 - reviewd a ot of material on Functions and classes, I was able to use the material I learned to create first small project. The big thing is getting it done and committing it to GitHub!
+
+**Thoughts**: 
+- Full time job + 2 kids + College = Tough as fuck! It is rewarding though! 
+
+**Link to work**: https://github.com/Twileigh/isPhoneCharged
