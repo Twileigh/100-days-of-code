@@ -64,3 +64,22 @@ retention.
 - Full time job + 2 kids + College = Tough as fuck! It is rewarding though! 
 
 **Link to work**: https://github.com/Twileigh/isPhoneCharged
+
+## Day 4-8: (May 31, 2020)
+
+**CHANGE OF COURSE**: I have made the decision to change to Java. It wasn't an easy decision as I believe Kotlin to have a strong hold on the industry in the future but with College classes focusing on Java and getting insight from friends that learning Java
+will benefit me in the long run. I will then be able to know Java inside and out while having Kotlin as an alternative in the future. Still staying strong and studying my ass off!  
+
+
+**DAILY GOALS**: Continue with Java fundamentals and get to a solid stopping point (methods) and then practice what I have learned. 
+
+**Today's Progress**:
+- 2200 - Kids are down, mind is racing and motivated to keep going!
+- 0048 - Stopping at methods. Went back to study notes and code up some basic logic ensuring that what I have learned sticks.
+
+**Thoughts**: 
+- Not suprised that the syntax is similar to all languages at this point. I am eager to get to "advanced" section but know that rushing is not in my best interest. 
+- The pace at which I am learning is great. I am getting through the material and practicing a good amount without worry that I will be burning out! 
+
+
+**Link to work**: None. 
