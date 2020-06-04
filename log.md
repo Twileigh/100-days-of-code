@@ -71,7 +71,25 @@ retention.
 will benefit me in the long run. I will then be able to know Java inside and out while having Kotlin as an alternative in the future. Still staying strong and studying my ass off!  
 
 
-**DAILY GOALS**: Continue with Java fundamentals and get to a solid stopping point (methods) and then practice what I have learned. 
+**DAILY GOALS**: Continue with Java fundamentals and get to a solid stopping point (methods) and then practice what I have learned.
+
+## Day 9-11 (June 2, 2020)
+
+**DAILY GOALS**: Review and finish excercises on Java course. Set up linux on laptop. 
+
+**Today's Progress**: 
+- 2100: Off to the races! Starting with the review. 
+- 2130: Review went well. Now on to the exercises!! 
+- 2230: Finished course exercises for the night. 
+- 2300: Installing UBUNTU on laptop. 
+
+**Thoughts**:
+- I get so lost in learning and programming, I forget to commit daily accomplishments. I need to set that as goals if I can't seem to get the time to commit to GitHub repo..Better documentation on Round 1 of #100daysofcode. 
+- Since learning Git and gaining more confidence in the process, on top of learning Java, I will be dedicating 30min-1hr each day to learning Linux. 
+- Java is coming swimmingly! I am still on classes as I do not want to rush but the practice has set a stronger foundation that I have learned with JS or Python. Onward!
+
+**Link to work**: None. 
+ 
 
 **Today's Progress**:
 - 2200 - Kids are down, mind is racing and motivated to keep going!
